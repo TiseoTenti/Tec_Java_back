@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>Tec_Java_app</groupId>
-	<artifactId>Carrito</artifactId>
+	<artifactId>Carrito de compras</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
